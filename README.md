@@ -6,7 +6,8 @@ Simple and perfect HTML combox.
 功能与Html5 的datalist类似，但更强大，而且支持所有浏览器。依赖于Jquery，支持动态html页面。
 
 ##二、使用说明：
-###1. 在页面中引用Jquery，以及SimCombox.js。
+###1. 引用JS
+在页面中引用Jquery，以及SimCombox.js。
 ###2. 在script中定义SibCombox即可
 		$("#inputbox_id").SimCombox(data,setting);
  	  参数说明：
